@@ -1,0 +1,9 @@
+{
+  "name": "Sunny — Sun Safety & Beach Days",
+  "short_name": "Sunny",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8ed",
+  "theme_color": "#fff4d8",
+  "description": "UV forecasts, sun protection reminders and saved beach places."
+}
